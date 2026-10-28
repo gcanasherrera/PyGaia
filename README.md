@@ -2,7 +2,7 @@
 
 [![PyPI](https://img.shields.io/pypi/v/pygaia.svg)](https://pypi.org/project/PyGaia/)
 [![Python versions](https://img.shields.io/pypi/pyversions/pygaia.svg)](https://pypi.org/project/PyGaia/)
-[![CI](https://github.com/agabrown/PyGaia/actions/workflows/ci.yaml/badge.svg?branch=main)](https://github.com/agabrown/PyGaia/actions/workflows/ci.yaml)
+[![CI](https://github.com/agabrown/PyGaia/actions/workflows/ci.yaml/badge.svg?branch=master)](https://github.com/agabrown/PyGaia/actions/workflows/ci.yaml)
 [![Documentation](https://readthedocs.org/projects/pygaia/badge/?version=latest)](https://pygaia.readthedocs.io/en/latest/)
 [![License: BSD-3-Clause](https://img.shields.io/badge/license-BSD--3--Clause-blue.svg)](LICENSE)
 
